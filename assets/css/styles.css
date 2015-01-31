@@ -219,6 +219,15 @@ section.bg-green {
   border-right: 1px solid rgb(101, 100, 107);
 }
 
+/*----- About -----*/
+#about a {
+  color: rgb(146, 164, 56);
+  text-decoration: none;
+}
+#about a:hover {
+  text-decoration: underline;
+}
+
 /*----- Hours -----*/
 #hours dt {
   color: #fff;
@@ -279,6 +288,9 @@ section.bg-green {
 #shop li a {
   color: rgb(146, 164, 56);
   text-decoration: none;
+}
+#shop li a:hover {
+  text-decoration: underline;
 }
 #shop li a:after {
   content: ' ›';
