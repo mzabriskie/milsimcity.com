@@ -80,7 +80,7 @@
     // });
 
   var events = [
-    { date: '01/31/2015', name: 'Preferred Customer Night', desc: 'Bring two players that have not played at MilSim City yet and you all play for $20' },
+    { date: '01/31/2015', name: 'Preferred Customer Night', desc: 'Bring two players that have not played at MilSim City yet and you all play for $20/ea' },
     { date: '02/14/2015', name: 'Ladies Night', desc: 'Free admission for all ladies' },
   ];
   
