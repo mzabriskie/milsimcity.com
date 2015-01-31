@@ -77,7 +77,7 @@ button {
 
 /*----- Header -----*/
 header {
-  background: url(/assets/img/header.png) center center / 1228px 348px no-repeat;
+  background: url(assets/img/header.png) center center / 1228px 348px no-repeat;
   height: 350px;
   position: relative;
 }
@@ -190,7 +190,7 @@ section.bg-white button {
 }
 
 section.bg-green {
-  background: #97AA3A url(/assets/img/soldier_silhouette.png) center bottom / 1228px 320px no-repeat;
+  background: #97AA3A url(assets/img/soldier_silhouette.png) center bottom / 1228px 320px no-repeat;
   color: #fff;
 }
 

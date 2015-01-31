@@ -30,12 +30,12 @@
 // Shop
 (function () {
   var items = [
-    { name: 'Gift Cards', desc: '$10, $20, $50', image: '/assets/img/shop/gift-cards.png' },
-    { name: 'Ammo', desc: '10k, 20k, and 50k', image: '/assets/img/shop/ammo.png' },
-    { name: 'Caps', desc: '3 Colors', image: '/assets/img/shop/caps.png' },
-    { name: 'Masks', desc: 'Simple and Custom', image: '/assets/img/shop/masks.png' },
-    { name: 'Armor and apparel', desc: 'Full body, & t-shirts',  image: '/assets/img/shop/armor.png' },
-    { name: 'Guns', desc: 'Pistols and rifles', image: '/assets/img/shop/guns.png' }
+    { name: 'Gift Cards', desc: '$10, $20, $50', image: 'assets/img/shop/gift-cards.png' },
+    { name: 'Ammo', desc: '10k, 20k, and 50k', image: 'assets/img/shop/ammo.png' },
+    { name: 'Caps', desc: '3 Colors', image: 'assets/img/shop/caps.png' },
+    { name: 'Masks', desc: 'Simple and Custom', image: 'assets/img/shop/masks.png' },
+    { name: 'Armor and apparel', desc: 'Full body, & t-shirts',  image: 'assets/img/shop/armor.png' },
+    { name: 'Guns', desc: 'Pistols and rifles', image: 'assets/img/shop/guns.png' }
   ];
 
   var container = document.getElementById('shop-content');
