@@ -201,6 +201,9 @@ section.bg-green {
 .col-gutter {
   width: 10%;
 }
+.col-gutter-half {
+  width: 5%;
+}
 .col-full {
   width: 60%;
 }
